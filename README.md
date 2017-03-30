@@ -36,7 +36,7 @@
 20. __25/05__ : Entrega dos resultados
 
 **Avaliações**
-1. 30% [[Seminário sobre linguagens de scripts que compilam para js) | wiki/2017.1.1oBim.Trabalho.Linguagens_de_script]]
+1. 30% [Seminário sobre linguagens de scripts que compilam para js](wiki/2017.1.1oBim.Trabalho.Linguagens_de_script)
 2. 30% DOJO
 3. 40% Prova escrita
 
@@ -74,6 +74,6 @@
 ### 4o Bimestre
 
 # Links interessantes
-- (WebSchool.io)[http://webschool.io/] **PT-BR** Site contendo diversos cursos gratuitos e outros materiais sobre Node.js
-- (UWD Quer aprender Node.js?)[https://udgwebdev.com/quer-aprender-node-js-atualizado/] **PT-BR** Site com links interessantes para quem deseja aprender mais sobre Node.js
-- (Lista de linguagens de scripts que compilam para js)[https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS]
+- [WebSchool.io](http://webschool.io/) **PT-BR** Site contendo diversos cursos gratuitos e outros materiais sobre Node.js
+- [UWD Quer aprender Node.js?](https://udgwebdev.com/quer-aprender-node-js-atualizado/) **PT-BR** Site com links interessantes para quem deseja aprender mais sobre Node.js
+- [Lista de linguagens de scripts que compilam para js](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS)
