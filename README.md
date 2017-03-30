@@ -36,8 +36,8 @@
 20. __25/05__ : Entrega dos resultados
 
 **Avaliações**
-1. 30% [Seminário sobre linguagens de scripts que compilam para js](wiki/2017.1.1oBim.Trabalho.Linguagens_de_script)
-2. 30% DOJO
+1. 30% [Seminário sobre linguagens de scripts que compilam para js](../../wiki/2017.1.1oBim.Trabalho.Linguagens_de_script)
+2. 30% DOJO __em breve__
 3. 40% Prova escrita
 
 ### 2o Bimestre
